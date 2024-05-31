@@ -9,7 +9,7 @@ He/Him
 
 ### 🌱 What do I do and What have I done? 
 
-- **[Simon](https://github.com/iam-baivab/Simon):** A classic Simon memory game implemented using HTML, CSS, and JavaScript.
+- **[Simon](https://github.com/iam-baivab/Simon):** A classic Simon memory game implemented using HTML, CSS, and JavaScript. Repeat the sequence of lights and sounds to win.
 - **[Random-API](https://github.com/iam-baivab/Random-API):** A collection of mini tools utilizing various Public APIs to provide random data and fun interactions.
 - **[Sleep Prevention Device](https://github.com/iam-baivab/Sleep-Prevention-Device):** Developed a device using Arduino Nano and MPU6050 gyro to prevent sleep-related issues.
 - **[Sentiment Analysis of COVID-19 Tweets](https://github.com/iam-baivab/Sentiment-Analysis-COVID-Tweets):** Analyzed sentiments in COVID-19 tweets for public perception.
