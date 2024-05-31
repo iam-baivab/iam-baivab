@@ -26,3 +26,5 @@ An enthusiastic individual who savors culinary adventures and occasionally delve
 - [LinkedIn](https://www.linkedin.com/in/baivabsarkar/)
 - [Dev](https://dev.to/thisisdeveloper)
 - [HuggingFace](https://huggingface.co/ThisIs-Developer)
+
+![iam-baivab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iam-baivab&theme=default&hide_border=true)
