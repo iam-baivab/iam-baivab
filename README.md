@@ -1,4 +1,4 @@
-<img src="assets/coverpic.jpg" alt="Cover Photo" />
+<img src="assets/cover.jpg" alt="Cover Photo" />
 
 # Hello, Geeks! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="40" height="40" />
 
