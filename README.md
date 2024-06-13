@@ -13,7 +13,6 @@ He/Him
 - **[Simon](https://github.com/iam-baivab/Simon):** A classic Simon memory game implemented using HTML, CSS, and JavaScript. Repeat the sequence of lights and sounds to win.
 - **[Random-API](https://github.com/iam-baivab/Random-API):** A collection of mini tools utilizing various Public APIs to provide random data and fun interactions.
 - **[Sleep Prevention Device](https://github.com/iam-baivab/Sleep-Prevention-Device):** Developed a device using Arduino Nano and MPU6050 gyro to prevent sleep-related issues.
-- **[Sentiment Analysis of COVID-19 Tweets](https://github.com/iam-baivab/Sentiment-Analysis-COVID-Tweets):** Analyzed sentiments in COVID-19 tweets for public perception.
 - **[News Scraping with BeautifulSoup, Selenium, Django](https://github.com/iam-baivab/News-Scraping-using-BeautyfulSoup-Selenium-with-Django):** Created a news scraping tool using these frameworks and stored in a MySQL database.
 - **[Llama 2 CSV Chatbot](https://github.com/iam-baivab/Llama-2-CSV-Chatbot):** A conversational tool powered by a fine-tuned LLM known as Llama-2 78.
 - **[Body Language Detection with MediaPipe, OpenCV](https://github.com/iam-baivab/Body-Language-Detection-with-MediaPipe-and-OpenCV):** Developed a system to detect body language using these technologies.
