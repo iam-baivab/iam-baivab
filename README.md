@@ -9,6 +9,7 @@ He/Him
 
 ### 🌱 What do I do and What have I done? 
 
+- **[SketchFlow](https://github.com/iam-baivab/SketchFlow):** Developed a web app for creating digital art. It features tools like rectangles, circles, brushes, and erasers, providing a seamless canvas experience
 - **[Action Plan](https://github.com/iam-baivab/Action-Plan):** Developed a efficient task management tool for creating, editing, and organizing action plans with user-friendly interface.
 - **[Simon](https://github.com/iam-baivab/Simon):** A classic Simon memory game implemented using HTML, CSS, and JavaScript. Repeat the sequence of lights and sounds to win.
 - **[Random-API](https://github.com/iam-baivab/Random-API):** A collection of mini tools utilizing various Public APIs to provide random data and fun interactions.
